@@ -1,0 +1,7 @@
+site_name: Azure Active Directory for Linux
+
+theme:
+  name: material
+  palette:
+    primary: blue
+
