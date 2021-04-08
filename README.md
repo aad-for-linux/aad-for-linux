@@ -1,8 +1,10 @@
 # Azure Active Directory for Linux
 
-- [pam_aad](https://github.com/aad-for-linux/pam_aad)
-- [libnss-aad](https://github.com/aad-for-linux/libnss-aad)
-- [openvpn-auth-aad](https://github.com/aad-for-linux/openvpn-auth-aad)
+| Component                                                             | Description |
+| --------------------------------------------------------------------- | -------------------------------------- |
+| [pam_aad](https://github.com/aad-for-linux/pam_aad)                   | Pluggable Authentication Modules (PAM) |
+| [libnss-aad](https://github.com/aad-for-linux/libnss-aad)             | Name Service Switch (NSS) Module       |
+| [openvpn-auth-aad](https://github.com/aad-for-linux/openvpn-auth-aad) | OpenVPN Authentication Plugin          |
 
 ## License
 
