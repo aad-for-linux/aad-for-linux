@@ -1,6 +1,8 @@
 site_name: Azure Active Directory for Linux
 
 theme:
+  logo: assets/logo.svg
+  favicon: assets/favicon.svg
   name: material
   palette:
     primary: blue
