@@ -1,0 +1,13 @@
+:root {
+  --md-primary-fg-color: #0089d6; 
+  --md-accent-fg-color: #ffba00;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-bg-color: #333333;
+  --md-default-bg-color: #333333;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: #0089d6;
+}
