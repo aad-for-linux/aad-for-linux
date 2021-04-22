@@ -7,5 +7,17 @@ theme:
   favicon: assets/favicon.svg
   name: material
   palette:
-    primary: blue
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
 
