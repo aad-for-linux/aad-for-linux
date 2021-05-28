@@ -1,5 +1,7 @@
 site_name: Azure Active Directory for Linux
 
+repo_url: https://github.com/aad-for-linux/aad-for-linux
+
 theme:
   logo: assets/logo.svg
   favicon: assets/favicon.svg
