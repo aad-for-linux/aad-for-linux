@@ -1,0 +1,13 @@
+version: "3"
+services:
+  mkdocs:
+    container_name: mkdocs
+    hostname: mkdocs
+    image: registry.gitlab.com/lramage/mkdocs-ci-pipeline:latest
+    ports:
+      - "8000:8000"
+    volumes:
+      - ~/src/aad-for-linux/:/usr/src/aad-for-linux
+    working_dir: /usr/src/aad-for-linux
+    entrypoint: /bin/sh
+
