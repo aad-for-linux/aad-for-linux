@@ -1,4 +1,5 @@
 site_name: Azure Active Directory for Linux
+copyright: Copyright &copy; 2021 Azure Active Directory for Linux
 
 repo_url: https://github.com/aad-for-linux/aad-for-linux
 
@@ -17,6 +18,11 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/gitter
+      link: https://gitter.im/aad-for-linux/community
 
 extra_css:
   - stylesheets/extra.css
