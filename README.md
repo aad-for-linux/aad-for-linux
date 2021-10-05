@@ -13,8 +13,8 @@
 | Distribution    | Version     | Status    |
 | --------------- | ----------- | --------- |
 | Alpine Linux    | Edge        | Planned   |
-| Debian          | Unstable    | Complete  |
-| Rocky           | Unknown     | Planned   |
+| Debian          | 11.0        | Planned   |
+| Rocky           | 8.4         | Planned   |
 | Ubuntu          | 18.04 LTS   | Complete  |
 
 ## License
