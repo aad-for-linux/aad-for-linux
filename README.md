@@ -15,7 +15,7 @@
 | Alpine Linux    | Edge        | Planned   |
 | Debian          | Unstable    | Complete  |
 | Rocky           | Unknown     | Planned   |
-| Ubuntu          | LTS         | Complete  |
+| Ubuntu          | 18.04 LTS   | Complete  |
 
 ## License
 
