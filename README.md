@@ -10,12 +10,12 @@
 
 ## Distributions
 
-| Distribution    | Version     | Status    |
-| --------------- | ----------- | --------- |
-| Alpine Linux    | Edge        | Planned   |
-| Debian          | 11.0        | Planned   |
-| Rocky           | 8.4         | Planned   |
-| Ubuntu          | 18.04 LTS   | Complete  |
+| Distribution    | Version     | Status                                                              |
+| --------------- | ----------- | ------------------------------------------------------------------- |
+| Alpine Linux    | 3.14        | [Planned](https://github.com/aad-for-linux/aad-for-linux/issues/15) |
+| Debian          | 11.0        | [Planned](https://github.com/aad-for-linux/aad-for-linux/issues/23) |
+| Rocky           | 8.4         | [Planned](https://github.com/aad-for-linux/aad-for-linux/issues/16) |
+| Ubuntu          | 20.04 LTS   | [Planned](https://github.com/aad-for-linux/aad-for-linux/issues/8)  |
 
 ## License
 
