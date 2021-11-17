@@ -10,6 +10,8 @@ a number of ways, a few examples are:
 - Documentation improvements
 - Bug reports and patch reviews
 
+Join us on [Gitter](https://gitter.im/aad-for-linux) to discuss any of the above.
+
 ## Code of Conduct
 
 Everyone interacting in the project's codebases, issue trackers, chat
