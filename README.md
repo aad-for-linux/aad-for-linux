@@ -27,3 +27,4 @@ For more information on the terms and conditions, see [COPYING](https://raw.gith
 
 - [AADLoginForLinux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/login-using-aad)
 
+- [adsys](https://github.com/ubuntu/adsys)
