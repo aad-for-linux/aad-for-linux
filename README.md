@@ -1,5 +1,7 @@
 # Azure Active Directory for Linux
 
+![Architecture Diagram](./docs/assets/diagrams/aad_for_linux.svg)
+
 ## Components
 
 | Component                                                             | Description                            | Version |
