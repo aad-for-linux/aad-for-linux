@@ -4,7 +4,7 @@ copyright: Copyright &copy; 2021 Azure Active Directory for Linux
 repo_url: https://github.com/aad-for-linux/aad-for-linux
 
 theme:
-  logo: assets/logo.svg
+  logo: assets/logo/full_color.svg
   favicon: assets/favicon.svg
   name: material
   palette:
