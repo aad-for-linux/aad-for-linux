@@ -6,7 +6,7 @@
 
 | Component                                                             | Description                            | Version |
 | --------------------------------------------------------------------- | -------------------------------------- | ------- |
-| [pam_aad](https://github.com/aad-for-linux/pam_aad)                   | Pluggable Authentication Modules (PAM) | v0.0.4  |
+| [pam_aad](https://github.com/aad-for-linux/pam_aad)                   | Pluggable Authentication Modules (PAM) | v0.0.5  |
 | [libnss-aad](https://github.com/aad-for-linux/libnss-aad)             | Name Service Switch (NSS) Module       | v0.0.3  |
 | [openvpn-auth-aad](https://github.com/aad-for-linux/openvpn-auth-aad) | OpenVPN Authentication Plugin          | v0.0.2  |
 
